@@ -1,0 +1,387 @@
+body
+{
+	background-color:#eff0f0;
+	padding:0px;
+	margin:0px;
+	font-family:Arial,Helvetica,Sans-Serif;
+	color:#fff;
+}
+form
+{
+	margin:0px;
+	padding:0px;
+}
+ul
+{
+	margin:0px;
+	padding:0px;
+}
+ul li
+{
+	list-style-image:none;
+	list-style-type:none;
+}
+h1,h2,h3,h4,h5,h6,p
+{
+	margin:0px;
+	padding:0px;
+}
+img
+{
+	border:0px;
+}
+#outer_div
+{
+	margin:0px auto;
+	padding:0px;
+	width:910px;
+}
+#header
+{
+	background:url(../images/header_bg.gif);
+	background-repeat:no-repeat;
+	background-position:top center;
+	width:910px;
+	height:108px;
+}
+#header .logo_container
+{
+ padding:36px 0px 0px 33px;
+}
+.logo1
+{
+	width:370px;
+	float:left;
+}
+.logo2
+{
+	width:320px;
+	float:left;
+}
+.logo3
+{
+	float:left;
+}
+#center_panel
+{
+	padding-left:3px;
+}
+#center_panel .center_panel_top
+{
+	background:url(../images/center_top_bg.jpg);
+	background-repeat:no-repeat;
+	background-position:top center;
+	height:234px;
+}
+#center_panel .center_panel_btm
+{
+	background:url(../images/center_btm_bg.jpg);
+	background-repeat:no-repeat;
+	background-position:top center;
+	height:367px;
+}
+.top_tit_div
+{
+	padding:33px 0px 0px 36px;
+}
+#center_panel h2,#center_panel h3
+{
+	font-size:18px;
+	text-align:center;
+	font-weight:normal;
+	line-height:28px;
+}
+#center_panel h3
+{
+	line-height:28px;
+}
+.btn_div
+{
+	padding:10px 0px 0px 447px;
+	margin:0px;
+}
+.footer
+{
+	width:890px;
+	padding-left:10px;
+}
+.footer_links
+{
+	background-color:#fff;
+	height:76px;
+	text-align:right	
+}
+.footer_links ul
+{
+	margin:0px;
+	padding:30px 0px 0px 0px;
+}
+.footer_links ul li
+{
+	text-align:right;
+	display:inline;
+	color:#000000;
+	padding-right:48px;
+}
+.footer_links ul li a
+{
+	text-decoration:none;
+	font-size:10px;
+	color:#6d6e71;
+	font-weight:bold;
+}
+.copyright
+{
+	height:19px;
+	background-color:#99d9ed;
+	text-align:center;
+    font-size:11px;
+    padding-top:5px;
+}
+.sign_up_top
+{
+	background:url(../images/sign_up_ctop.jpg);
+	background-repeat:no-repeat;
+	height:97px;
+}
+.sign_up_middle
+{
+	background:url(../images/sign_up_cmiddle.jpg);
+	background-repeat:no-repeat;
+	height:292px;
+}
+.sign_up_bottom
+{
+	background:url(../images/sign_up_cbtm.jpg);
+	background-repeat:no-repeat;
+	height:212px;
+}
+.sign_up
+{
+	padding-left:0px !important;
+}
+.sign_up_form
+{
+	padding:10px 12px 0px 80px;
+}
+.form_area h3
+{
+	color:#1a1617;
+	text-align:left !important;
+	font-size:18px;
+	padding-bottom:4px;
+}
+.form_area
+{
+	padding-left:34px;
+	width:730px;
+}
+ .input_div input
+{
+	width:281px;
+	background-color:#fff;
+	color:#1a1617;
+	padding:4px;
+	height:16px;
+	border:0px;
+	margin-right:7px;
+} 
+.input_div2
+{
+	float:left;
+	display:inline;
+	width:100%;
+	padding-top:8px;
+}
+ .input_div2 input
+{
+	width:311px;
+	background-color:#fff;
+	color:#1a1617;
+	padding:4px;
+	height:16px;
+	border:0px;
+	margin-right:7px;
+}
+.input_div2 select
+{
+	width:319px;
+	height:21px;
+	border:0px;
+} 
+.sign_up_form .form_content
+{
+	width:610px;
+	float:left;
+}
+.sign_up_form .form_content p
+{
+	color:#1a1617;
+	margin:0px;
+	padding:10px 0px 0px 0px;
+	font-size:11px;
+}
+.btn_submit_div
+{
+	float:left;
+	padding-top:80px;
+	padding-left:35px;
+}
+.form_area p
+{
+	margin:0px !important;
+	padding-top:4px;
+	float:left;
+	width:100%;
+	color:#1a1617;
+	font-size:14px;
+	font-weight:bold;
+}
+.form_content p input
+{
+	height:12px;
+	width:12px;
+	position:relative;
+	margin:0px !important;
+	padding:0px !important;
+}
+.tac_top
+{
+	background:url(../images/tac_ctop.jpg);
+	background-repeat:no-repeat;
+	height:97px;
+}
+.tac_middle
+{
+	background:url(../images/tac_cmiddle.jpg);
+	background-repeat:no-repeat;
+	height:683px;
+}
+.tac_bottom
+{
+	background:url(../images/tac_cbtm.jpg);
+	background-repeat:no-repeat;
+	height:251px;
+}
+.content_area
+{
+	padding:15px 46px 20px 46px;
+}
+.content_area h2, .content_area_faq h2
+{
+	font-size:20px !important;
+	color:#1a1617;
+	font-weight:bold !important;
+	text-align:left !important;
+	line-height:22px !important;
+	padding-bottom:10px;
+	font-family:Arial,helvetica, Sans-Serif;
+}
+ol.tac_list
+{
+	margin:0px;
+	margin-left:5px;
+	padding:0px;
+	padding-left:20px;
+}
+ol.tac_list li
+{
+	color:#1a1617;
+	font-size:16px;
+	font-family:Arial, helvetica, Sans-Serif;
+	text-align:left;
+	line-height:18px;
+	padding:0px 0px 2px 0px;
+}
+.content_area p,.content_area_faq p
+{
+	font-size:14px;
+	font-family:Arial, helvetica, Sans-Serif;
+	color:#1a1617;
+	margin:0px;
+}
+.content_area a,.content_area_faq a
+{
+	color:#122c6b;
+	text-decoration:underline;
+}
+.content_area a:hover, .content_area_faq a:hover
+{
+	text-decoration:none;
+}
+a.nounderline
+{
+	text-decoration:none;
+}
+
+/*--faq page--*/
+
+.faq_top
+{
+	background:url(../images/faq_ctop.jpg);
+	background-repeat:no-repeat;
+	height:105px;
+}
+.faq_middle
+{
+	background:url(../images/faq_cmiddle.jpg);
+	background-repeat:no-repeat;
+	height:826px;
+}
+.faq_bottom
+{
+	background:url(../images/faq_cbtm.jpg);
+	background-repeat:no-repeat;
+	height:239px;
+}
+.content_area_faq
+{
+	padding:15px 46px 20px 46px;
+}
+.content_area_faq
+{
+	font-size:20px;
+	color:#1a1617;
+	text-align:left !important;
+	padding-bottom:15px;
+}
+
+span.question
+{
+	font-size:15px;
+	font-weight:bold;
+}
+span.answer
+{
+	font-size:13px;
+	font-weight:normal;
+	padding-bottom:10px;
+	display:block;
+}
+span.text
+{
+	color:#1a1617;
+	font-size:16px;
+	font-family:Arial, helvetica, Sans-Serif;
+	text-align:left;
+}
+span.font17
+{
+	font-size:17px !important;
+}
+.input_div select
+{
+	height:21px;
+	border:0px;
+} 
+
+* html img, * html input,  
+* html .png{
+position:relative;
+behavior: expression((this.runtimeStyle.behavior="none")&&(this.pngSet?this.pngSet=true:(this.nodeName == "IMG" || this.nodeName == "INPUT" && this.src.toLowerCase().indexOf('.png')>-1?(this.runtimeStyle.backgroundImage = "none",
+this.runtimeStyle.filter = "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='" + this.src + "', sizingMethod='image')",
+this.src = "images/blank.gif"):(this.origBg = this.origBg? this.origBg :this.currentStyle.backgroundImage.toString().replace('url("','').replace('")',''),
+this.runtimeStyle.filter = "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='" + this.origBg + "', sizingMethod='crop')",
+this.runtimeStyle.backgroundImage = "none")),this.pngSet=true)
+);
+}

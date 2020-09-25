@@ -19,13 +19,17 @@ the system is to build a good management tool to reduce the time taken through m
 order to maintain all the records.
 
 
-Following are the objectives providing by proposed system:
+# Following are the objectives providing by proposed system:
 
 i. Providing them a website to work more efficiently.
+
 ii. Providing easy access to doctors as well as patients.
+
 iii. Scheduling the appointment of patients with doctors to make it convenient for both.
+
 iv. Easy handling of hospital work online rather than doing it on papers or registers i.e. to
 computerize all the information of patient and employees.
+
 v. To have immediate storage of information.
 vi. Navigation to hospital.
 vii. To computerize all the information of patient and employees.

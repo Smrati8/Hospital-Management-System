@@ -12,11 +12,15 @@ them with smooth functioning with their web interface.
 We provide with a system that can more accurately save the data of patients and staff allow the
 user to easily book appointment with the doctors. The doctors will also be notified immediately
 about any kind of booking being done in their accounts.
+
 The objective of “Hospital Management System” is to easily track the information of all the staffs,
 patients, treatment provided, and prescription and also for online appointment. The main goal of
 the system is to build a good management tool to reduce the time taken through manual system in
 order to maintain all the records.
+
+
 Following are the objectives providing by proposed system:
+
 i. Providing them a website to work more efficiently.
 ii. Providing easy access to doctors as well as patients.
 iii. Scheduling the appointment of patients with doctors to make it convenient for both.
